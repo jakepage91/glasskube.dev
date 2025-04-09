@@ -29,6 +29,7 @@ const sidebars: SidebarsConfig = {
         'on-premises-definition',
         'saas-definition',
         'self-managed-software',
+        'sbom',
       ],
     },
   ],
